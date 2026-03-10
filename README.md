@@ -1,8 +1,9 @@
 # Parcial_Lenguajes
-## Examen Parcial: Teoría de Lenguajes y Compiladores
+# Examen Parcial: Teoría de Lenguajes y Compiladores
 Este repositorio contiene la resolución de los 5 puntos del examen parcial, implementando autómatas, algoritmos numéricos y analizadores sintácticos. El proyecto está organizado por carpetas, cada una funcional de manera independiente.
 
-## Estructura del Proyecto
+# Estructura del Proyecto
+
 # Punto 1: AFD para movimientos de ajedrez (Python)
 # Punto 2: AFD para identificadores de variables (Python)
 # Punto 3: Calculadora de raíz cuadrada Newton-Raphson (Flex & Bison)
